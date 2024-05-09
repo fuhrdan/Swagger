@@ -1,0 +1,5 @@
+C:\Users\ksfuh\Desktop\CsharpProjects\Swagger\obj\Debug\net8.0\Swagger.csproj.AssemblyReference.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\Swagger\obj\Debug\net8.0\Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\Desktop\CsharpProjects\Swagger\obj\Debug\net8.0\Swagger.AssemblyInfoInputs.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\Swagger\obj\Debug\net8.0\Swagger.AssemblyInfo.cs
+C:\Users\ksfuh\Desktop\CsharpProjects\Swagger\obj\Debug\net8.0\Swagger.csproj.CoreCompileInputs.cache
